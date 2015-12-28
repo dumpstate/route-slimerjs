@@ -1,0 +1,16 @@
+{
+  "name": "route-slimerjs",
+  "version": "0.1.5",
+  "description": "Routing for SlimerJS `webserver` module.",
+  "main": "route.js",
+  "scripts": {},
+  "author": "albert <albert@evojam.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumpstate/route-slimerjs.git"
+  },
+  "dependencies": {
+    "url-slimerjs": "~0.11.1"
+  }
+}
